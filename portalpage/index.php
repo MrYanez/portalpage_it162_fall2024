@@ -15,7 +15,7 @@
      <h1>Nahum Yanez</h1>
         <nav class="topnav" id="myTopnav">
             <a href="index.html" class="active">Home</a>
-            <a href="#" target="active">About</a>
+            <a href="" target="active">About</a>
             <a href="" target="_blank">it162</a>
             <a href="" target="_blank">Services</a>
             <a href="" target="_blank">IT skills</a>
@@ -27,13 +27,13 @@
      
    <main class="wrapper">
     <!--header ends here, applied by nahum-->
-    
         <picture class="profile">
             <source media="(min-width: 1200px)" srcset="images/img_desktop.png">
             <source media="(min-width: 501px)" srcset="images/img_desktop.png">
             <img src="images/img_desktop.png" alt="">
         </picture>   
        <h2 class="subheader"></h2>
+       
         <p>My name is <strong>Nahum Yanez</strong>, and <strong>I love IT.</p></strong>
             <p>
             I was born and raised, both my childhood
@@ -61,12 +61,14 @@
 
         <p>Links:</p>
         <ul>
-        <li><a href="">Github Repo</a></li>
+        <li><a href="https://github.com/MrYanez/portalpage_it162_fall2024">Github Repo</a></li>
             <li><a href="https://nahyan.dreamhosters.com/portalpage/index.html">index.html</a></li>
             <li><a href="https://nahyan.dreamhosters.com/portalpage/index.php">index.php</a></li>
             <li><a href="https://nahyan.dreamhosters.com/portalpage/includes/header.php">header.php</a></li>
             <li><a href="https://nahyan.dreamhosters.com/portalpage/includes/footer.php">footer.php</a></li>
             <li><a href="https://nahyan.dreamhosters.com/portalpage/template.php">template.html</a></li>
+            <li><a href="https://nahyan.dreamhosters.com/portalpage/contact.php">contact.php</a></li>
+            <li><a href="https://nahyan.dreamhosters.com/portalpage/includes/portal-config.php">portal-config.php</a></li>
           </ul> 
 
     <!--footer starts her, applyed by nahum-->
